@@ -1,0 +1,13 @@
+Proportion and Frequency of admissions with diabetes diagnosis:
+
+ - indicator variable: dm
+                          Frequency     Percentage
+====================================================
+dm = 0                  /   2147     /     96.28%
+(no diabetes diagnosis) /            /
+----------------------------------------------------
+dm = 1                  /   83       /      3.72%
+(diabetes diagnosis)    /            /
+----------------------------------------------------
+
+
