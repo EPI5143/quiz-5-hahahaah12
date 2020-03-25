@@ -93,6 +93,36 @@ run;
 	* 83 admissions out of 2230, or 3.72% of them had 1 diagnosis diagnosis;
 	* none of them had 2 or diagnosis diagnosis -  meaning that there is no duplicates of encounterid or admission ;
 
+/**********************************************
+Proportion and Frequency of admissions with diabetes diagnosis:
+
+ - indicator variable: dm
+                          Frequency     Percentage
+====================================================
+dm = 0                  /   2147     /     96.28%
+(no diabetes diagnosis) /            /
+----------------------------------------------------
+dm = 1                  /   83       /      3.72%
+(diabetes diagnosis)    /            /
+----------------------------------------------------
+
+*********************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *saving in permanent dataset;
 data clasdat.quiz5_abs;
 set quiz5;
